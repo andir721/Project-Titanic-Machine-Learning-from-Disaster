@@ -1,6 +1,6 @@
 ## Analyzing Titanic Survival Data with Python: A Step-by-Step Machine Learning Tutorial
 
-### Visit Our Project --> [Titanic Machine Learning from Disaster](https://www.google.com/)
+### Visit Our Project --> [Titanic Machine Learning from Disaster](https://andir721.github.io/Project-Titanic-Machine-Learning-from-Disaster/)
 
 ### Dataset Information
 
